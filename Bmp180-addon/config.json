@@ -1,0 +1,10 @@
+{
+    "name": "Bmp180_fixed",
+    "version": "1.0",
+    "slug": "Bmp180_sensor_fixed",
+    "description": "Reads data from Bmp180 sensor and sends it to Home Assistant",
+    "startup": "application",
+    "boot": "auto",
+    "options": {},
+    "schema": {}
+}
