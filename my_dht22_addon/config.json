@@ -1,0 +1,11 @@
+{
+    "name": "DHT22 Sensor Add-on",
+    "version": "1.0",
+    "slug": "dht22_sensor",
+    "description": "Reads data from DHT22 sensor and sends it to Home Assistant",
+    "startup": "application",
+    "boot": "auto",
+    "options": {},
+    "schema": {}
+}
+
